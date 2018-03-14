@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">as</string>
+    <string name="footer">没有更多内容了</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
